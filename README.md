@@ -1,4 +1,4 @@
-# Zphisher (Modified by Munna Bhai)
+# Zphisher (Modified by Tomar Ji)
 
 <p align="center">
   <img src=".github/misc/logo.png">
