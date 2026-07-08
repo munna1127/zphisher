@@ -213,7 +213,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by  (tomar_ji_99)${WHITE}
 	EOF
 }
 
@@ -349,9 +349,9 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN} Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN} Social   ${RED}:  ${CYAN}https://tahmidrayat.is-a.dev
+		${GREEN} Author   ${RED}:  ${ORANGE}Tomar Ji ${RED}[ ${ORANGE}Tomar Ji ${RED}]
+		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/munna1127
+		${GREEN} Social   ${RED}:  ${CYAN}https://t.me/tomar_ji_99
 		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 
 		${WHITE} ${REDBG}Warning:${RESETBG}
@@ -360,9 +360,7 @@ about() {
 		  any misuse of this toolkit ${RED}!${WHITE}
 		
 		${WHITE} ${CYANBG}Special Thanks to:${RESETBG}
-		${GREEN}  1RaY-1, Adi1090x, AliMilani, BDhackers009,
-		  KasRoudra, E343IO, sepp0, ThelinuxChoice,
-		  Yisus7u7
+		${GREEN}  Aman Kumar
 
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 
