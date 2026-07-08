@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 
 # I'm not that familiar with docker. Send a PR if something is wrong (^.^)
 
